@@ -1,0 +1,29 @@
+h1{font-size:38px
+}
+
+h2{font-size:30px
+}
+
+h3{font-size:24px
+}
+
+body{
+    background-image:url("images/font.jpg");
+    background-attachment:scroll;
+    background-repeat : no-repeat;
+    background-position: top;
+    background-size:  cover;
+    text-align: justify;
+     
+}
+
+body{color: white;
+
+}
+
+a:link {color: #9966ff}
+a:visited{color: #9966ff}
+a:active{color:#9966ff}
+
+#lien2 a:link {color: #7733ff}
+
